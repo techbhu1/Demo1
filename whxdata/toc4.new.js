@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"c_polan","type":"item","tilePath":"","description":"","url":"os8_cli/c_polan/c_polan.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

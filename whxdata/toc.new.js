@@ -1,0 +1,1 @@
+(function() {    var toc =  [{"name":"os8 cli","type":"book","tilePath":"","key":"toc1"},{"name":"os8 nt","type":"book","tilePath":"","key":"toc9"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

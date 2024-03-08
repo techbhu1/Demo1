@@ -1,0 +1,123 @@
+/*Created with Adobe RoboHelp.*/
+.message-item.rh-chat-message-reply  {
+  font-family: Calibri;
+  font-size: 14px;
+}
+.message-item.rh-chat-message-reply  h1 {
+  font-weight: bold;
+  font-size: 32px;
+}
+.message-item.rh-chat-message-reply  h2 {
+  font-weight: bold;
+  font-size: 24px;
+}
+.message-item.rh-chat-message-reply  h3 {
+  font-weight: bold;
+  font-size: 19px;
+}
+.message-item.rh-chat-message-reply  h4 {
+  font-weight: bold;
+  font-size: 16px;
+}
+.message-item.rh-chat-message-reply  h5 {
+  font-weight: bold;
+  font-size: 13px;
+}
+.message-item.rh-chat-message-reply  h6 {
+  font-weight: bold;
+  font-size: 11px;
+}
+.message-item.rh-chat-message-reply  p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.message-item.rh-chat-message-reply  a.expandspot {
+  color: #008000;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.message-item.rh-chat-message-reply  span.expandtext {
+  font-style: italic;
+  font-weight: normal;
+  color: #ff0000;
+}
+.message-item.rh-chat-message-reply  a.dropspot {
+  cursor: pointer;
+  color: #008000;
+  font-style: italic;
+  text-decoration: none;
+}
+.message-item.rh-chat-message-reply  a.glossterm {
+  color: #800000;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.message-item.rh-chat-message-reply  span.glosstext {
+  font-style: italic;
+  font-weight: normal;
+  color: #0000ff;
+}
+.message-item.rh-chat-message-reply  ol {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.message-item.rh-chat-message-reply  ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.message-item.rh-chat-message-reply  a.minitoc-caption {
+  text-decoration: none;
+  color: initial;
+  font-weight: bold;
+}
+.message-item.rh-chat-message-reply  p.minitoc-caption {
+  font-weight: bold;
+  font-size: 16px;
+}
+.message-item.rh-chat-message-reply  ol.minitoc-list {
+  padding-left: 0;
+  margin-left: 0;
+  list-style: none;
+}
+.message-item.rh-chat-message-reply  ol.minitoc-list ol {
+  list-style: none;
+}
+.message-item.rh-chat-message-reply  a {}
+.message-item.rh-chat-message-reply  a.minitoc-list-item {}
+.message-item.rh-chat-message-reply  div.breadcrumbs {}
+.message-item.rh-chat-message-reply  span.breadcrumbs-home-prefix {}
+.message-item.rh-chat-message-reply  a.breadcrumbs-home {}
+.message-item.rh-chat-message-reply  .breadcrumbs-separator {}
+.message-item.rh-chat-message-reply  a.breadcrumbs-link {}
+.message-item.rh-chat-message-reply  a.breadcrumbs-topic {}
+.message-item.rh-chat-message-reply  p.seealso-caption {
+  font-weight: bold;
+  font-size: 16px;
+}
+.message-item.rh-chat-message-reply  ol.seealso-list {
+  padding-left: 0;
+  margin-left: 0;
+  list-style: none;
+}
+.message-item.rh-chat-message-reply  a.seealso-list-item {}
+.message-item.rh-chat-message-reply  p.reltopics-caption {
+  font-weight: bold;
+  font-size: 16px;
+}
+.message-item.rh-chat-message-reply  ol.reltopics-list {
+  padding-left: 0;
+  margin-left: 0;
+  list-style: none;
+}
+.message-item.rh-chat-message-reply  a.reltopics-list-item {}
+.message-item.rh-chat-message-reply  ul.Disc {
+  list-style-type: disc;
+}
+.message-item.rh-chat-message-reply  ul.Circle {
+  list-style-type: circle;
+}
+.message-item.rh-chat-message-reply  figure {
+  margin-left: 0 px;
+}

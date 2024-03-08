@@ -1,0 +1,123 @@
+/*Created with Adobe RoboHelp.*/
+.RH-LAYOUT-CENTERPANEL-topic-box {
+  font-family: Calibri;
+  font-size: 14px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box h1, .RH-LAYOUT-FOOTER-container h1 {
+  font-weight: bold;
+  font-size: 32px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box h2, .RH-LAYOUT-FOOTER-container h2 {
+  font-weight: bold;
+  font-size: 24px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box h3, .RH-LAYOUT-FOOTER-container h3 {
+  font-weight: bold;
+  font-size: 19px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box h4, .RH-LAYOUT-FOOTER-container h4 {
+  font-weight: bold;
+  font-size: 16px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box h5, .RH-LAYOUT-FOOTER-container h5 {
+  font-weight: bold;
+  font-size: 13px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box h6, .RH-LAYOUT-FOOTER-container h6 {
+  font-weight: bold;
+  font-size: 11px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box p, .RH-LAYOUT-FOOTER-container p {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.expandspot, .RH-LAYOUT-FOOTER-container a.expandspot {
+  color: #008000;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box span.expandtext, .RH-LAYOUT-FOOTER-container span.expandtext {
+  font-style: italic;
+  font-weight: normal;
+  color: #ff0000;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.dropspot, .RH-LAYOUT-FOOTER-container a.dropspot {
+  cursor: pointer;
+  color: #008000;
+  font-style: italic;
+  text-decoration: none;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.glossterm, .RH-LAYOUT-FOOTER-container a.glossterm {
+  color: #800000;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box span.glosstext, .RH-LAYOUT-FOOTER-container span.glosstext {
+  font-style: italic;
+  font-weight: normal;
+  color: #0000ff;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol, .RH-LAYOUT-FOOTER-container ol {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ul, .RH-LAYOUT-FOOTER-container ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.minitoc-caption, .RH-LAYOUT-FOOTER-container a.minitoc-caption {
+  text-decoration: none;
+  color: initial;
+  font-weight: bold;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box p.minitoc-caption, .RH-LAYOUT-FOOTER-container p.minitoc-caption {
+  font-weight: bold;
+  font-size: 16px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.minitoc-list, .RH-LAYOUT-FOOTER-container ol.minitoc-list {
+  padding-left: 0;
+  margin-left: 0;
+  list-style: none;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.minitoc-list ol, .RH-LAYOUT-FOOTER-container ol.minitoc-list ol {
+  list-style: none;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a, .RH-LAYOUT-FOOTER-container a {}
+.RH-LAYOUT-CENTERPANEL-topic-box a.minitoc-list-item, .RH-LAYOUT-FOOTER-container a.minitoc-list-item {}
+.RH-LAYOUT-CENTERPANEL-topic-box div.breadcrumbs, .RH-LAYOUT-FOOTER-container div.breadcrumbs {}
+.RH-LAYOUT-CENTERPANEL-topic-box span.breadcrumbs-home-prefix, .RH-LAYOUT-FOOTER-container span.breadcrumbs-home-prefix {}
+.RH-LAYOUT-CENTERPANEL-topic-box a.breadcrumbs-home, .RH-LAYOUT-FOOTER-container a.breadcrumbs-home {}
+.RH-LAYOUT-CENTERPANEL-topic-box .breadcrumbs-separator, .RH-LAYOUT-FOOTER-container .breadcrumbs-separator {}
+.RH-LAYOUT-CENTERPANEL-topic-box a.breadcrumbs-link, .RH-LAYOUT-FOOTER-container a.breadcrumbs-link {}
+.RH-LAYOUT-CENTERPANEL-topic-box a.breadcrumbs-topic, .RH-LAYOUT-FOOTER-container a.breadcrumbs-topic {}
+.RH-LAYOUT-CENTERPANEL-topic-box p.seealso-caption, .RH-LAYOUT-FOOTER-container p.seealso-caption {
+  font-weight: bold;
+  font-size: 16px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.seealso-list, .RH-LAYOUT-FOOTER-container ol.seealso-list {
+  padding-left: 0;
+  margin-left: 0;
+  list-style: none;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.seealso-list-item, .RH-LAYOUT-FOOTER-container a.seealso-list-item {}
+.RH-LAYOUT-CENTERPANEL-topic-box p.reltopics-caption, .RH-LAYOUT-FOOTER-container p.reltopics-caption {
+  font-weight: bold;
+  font-size: 16px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.reltopics-list, .RH-LAYOUT-FOOTER-container ol.reltopics-list {
+  padding-left: 0;
+  margin-left: 0;
+  list-style: none;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.reltopics-list-item, .RH-LAYOUT-FOOTER-container a.reltopics-list-item {}
+.RH-LAYOUT-CENTERPANEL-topic-box ul.Disc, .RH-LAYOUT-FOOTER-container ul.Disc {
+  list-style-type: disc;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ul.Circle, .RH-LAYOUT-FOOTER-container ul.Circle {
+  list-style-type: circle;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box figure, .RH-LAYOUT-FOOTER-container figure {
+  margin-left: 0 px;
+}
