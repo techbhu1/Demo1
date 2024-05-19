@@ -1,1 +1,0 @@
-(function() {    var toc =  [{"name":"copyright","type":"item","tilePath":"","description":"","url":"os8_nt/copyright/copyright.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

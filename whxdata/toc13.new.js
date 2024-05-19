@@ -1,1 +1,0 @@
-(function() {    var toc =  [{"name":"n_havlan","type":"item","tilePath":"","description":"","url":"os8_nt/n_havlan/n_havlan.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

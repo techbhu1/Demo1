@@ -1,1 +1,0 @@
-(function() {    var toc =  [{"name":"title_page","type":"item","tilePath":"","description":"","url":"os8_nt/title_page/title_page.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();

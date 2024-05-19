@@ -1,1 +1,0 @@
-(function() {    var toc =  [{"name":"c_about","type":"item","tilePath":"","description":"","url":"os8_cli/c_about/c_about.htm"}];    window.rh.model.publish(rh.consts('KEY_TEMP_DATA'), toc, { sync:true });    })();
